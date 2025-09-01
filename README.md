@@ -15,7 +15,7 @@ El análisis incluye la evaluación de métricas de rendimiento por categoría, 
 Para ejecutar el notebook, se recomienda usar Google Colab debido a la necesidad de una GPU para entrenar el modelo BERT.
 
 Abre el archivo NLP.ipynb en Google Colab.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis24M/nlp_final/blob/main/NLP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luis24M/nlp_final/blob/main/nlp_moralesLuis.ipynb)
 
 Asegúrate de tener un entorno con GPU activado (Entorno de ejecución -> Cambiar tipo de entorno de ejecución -> Acelerador de hardware: GPU).
 
